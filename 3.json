@@ -1,0 +1,222 @@
+ [
+    {
+      "id_pais": 1,
+      "nombre": "Anthony Albanese",
+      "fecha_nacimiento": "1963-03-02",
+      "cargo_actual": "Primer Ministro",
+      "partido_politico": "Partido Laborista",
+      "inicio_cargo": "2022-05-23",
+      "fin_cargo": null,
+      "educacion": "Economía en la Universidad de Sídney",
+      "experiencias_previas": "Ministro de Infraestructura"
+    },
+    {
+      "id_pais": 2,
+      "nombre": "Luiz Inácio Lula da Silva",
+      "fecha_nacimiento": "1945-10-27",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Partido de los Trabajadores",
+      "inicio_cargo": "2023-01-01",
+      "fin_cargo": null,
+      "educacion": "Educación primaria",
+      "experiencias_previas": "Sindicalista, Expresidente de Brasil"
+    },
+    {
+      "id_pais": 3,
+      "nombre": "Gustavo Petro",
+      "fecha_nacimiento": "1960-04-19",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Pacto Histórico",
+      "inicio_cargo": "2022-08-07",
+      "fin_cargo": null,
+      "educacion": "Economista",
+      "experiencias_previas": "Senador, Alcalde de Bogotá"
+    },
+    {
+      "id_pais": 4,
+      "nombre": "Andrej Plenković",
+      "fecha_nacimiento": "1970-04-08",
+      "cargo_actual": "Primer Ministro",
+      "partido_politico": "Unión Democrática Croata",
+      "inicio_cargo": "2016-10-19",
+      "fin_cargo": null,
+      "educacion": "Derecho en la Universidad de Zagreb",
+      "experiencias_previas": "Diputado en Parlamento Europeo"
+    },
+    {
+      "id_pais": 5,
+      "nombre": "Justin Trudeau",
+      "fecha_nacimiento": "1971-12-25",
+      "cargo_actual": "Primer Ministro",
+      "partido_politico": "Partido Liberal",
+      "inicio_cargo": "2015-11-04",
+      "fin_cargo": null,
+      "educacion": "Literatura en McGill",
+      "experiencias_previas": "Maestro, Diputado"
+    },
+    {
+      "id_pais": 6,
+      "nombre": "Emmanuel Macron",
+      "fecha_nacimiento": "1977-12-21",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Renacimiento",
+      "inicio_cargo": "2017-05-14",
+      "fin_cargo": null,
+      "educacion": "ENA (Escuela Nacional de Administración)",
+      "experiencias_previas": "Ministro de Economía"
+    },
+    {
+      "id_pais": 7,
+      "nombre": "Olaf Scholz",
+      "fecha_nacimiento": "1958-06-14",
+      "cargo_actual": "Canciller",
+      "partido_politico": "Partido Socialdemócrata",
+      "inicio_cargo": "2021-12-08",
+      "fin_cargo": null,
+      "educacion": "Derecho en Universidad de Hamburgo",
+      "experiencias_previas": "Ministro de Finanzas"
+    },
+    {
+      "id_pais": 8,
+      "nombre": "Fumio Kishida",
+      "fecha_nacimiento": "1957-07-29",
+      "cargo_actual": "Primer Ministro",
+      "partido_politico": "Partido Liberal Democrático",
+      "inicio_cargo": "2021-10-04",
+      "fin_cargo": null,
+      "educacion": "Derecho en Universidad Waseda",
+      "experiencias_previas": "Ministro de Relaciones Exteriores"
+    },
+    {
+      "id_pais": 9,
+      "nombre": "Andrés Manuel López Obrador",
+      "fecha_nacimiento": "1953-11-13",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Morena",
+      "inicio_cargo": "2018-12-01",
+      "fin_cargo": null,
+      "educacion": "Ciencias Políticas en UNAM",
+      "experiencias_previas": "Jefe de Gobierno de CDMX"
+    },
+    {
+      "id_pais": 10,
+      "nombre": "Rishi Sunak",
+      "fecha_nacimiento": "1980-05-12",
+      "cargo_actual": "Primer Ministro",
+      "partido_politico": "Partido Conservador",
+      "inicio_cargo": "2022-10-25",
+      "fin_cargo": null,
+      "educacion": "MBA en Stanford",
+      "experiencias_previas": "Ministro de Hacienda"
+    },
+    {
+      "id_pais": 11,
+      "nombre": "Pedro Sánchez",
+      "fecha_nacimiento": "1972-02-29",
+      "cargo_actual": "Presidente del Gobierno",
+      "partido_politico": "PSOE",
+      "inicio_cargo": "2018-06-02",
+      "fin_cargo": null,
+      "educacion": "Economía en Universidad Complutense",
+      "experiencias_previas": "Diputado"
+    },
+    {
+      "id_pais": 12,
+      "nombre": "Javier Milei",
+      "fecha_nacimiento": "1970-10-22",
+      "cargo_actual": "Presidente",
+      "partido_politico": "La Libertad Avanza",
+      "inicio_cargo": "2023-12-10",
+      "fin_cargo": null,
+      "educacion": "Economista",
+      "experiencias_previas": "Analista político y economista privado"
+    },
+    {
+      "id_pais": 13,
+      "nombre": "Cyril Ramaphosa",
+      "fecha_nacimiento": "1952-11-17",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Congreso Nacional Africano",
+      "inicio_cargo": "2018-02-15",
+      "fin_cargo": null,
+      "educacion": "Derecho en Universidad de Sudáfrica",
+      "experiencias_previas": "Empresario y líder sindical"
+    },
+    {
+      "id_pais": 14,
+      "nombre": "Narendra Modi",
+      "fecha_nacimiento": "1950-09-17",
+      "cargo_actual": "Primer Ministro",
+      "partido_politico": "Bharatiya Janata Party",
+      "inicio_cargo": "2014-05-26",
+      "fin_cargo": null,
+      "educacion": "Ciencias Políticas en Universidad de Delhi",
+      "experiencias_previas": "Gobernador de Gujarat"
+    },
+    {
+      "id_pais": 15,
+      "nombre": "Xi Jinping",
+      "fecha_nacimiento": "1953-06-15",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Partido Comunista",
+      "inicio_cargo": "2013-03-14",
+      "fin_cargo": null,
+      "educacion": "Ingeniería Química en Universidad Tsinghua",
+      "experiencias_previas": "Gobernador de Fujian, Vicepresidente de China"
+    },
+    {
+      "id_pais": 16,
+      "nombre": "Vladimir Putin",
+      "fecha_nacimiento": "1952-10-07",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Rusia Unida",
+      "inicio_cargo": "2012-05-07",
+      "fin_cargo": null,
+      "educacion": "Derecho en Universidad de Leningrado",
+      "experiencias_previas": "Primer Ministro, Director del FSB"
+    },
+    {
+      "id_pais": 17,
+      "nombre": "Yoon Suk-yeol",
+      "fecha_nacimiento": "1960-12-18",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Partido del Poder del Pueblo",
+      "inicio_cargo": "2022-05-10",
+      "fin_cargo": null,
+      "educacion": "Derecho en Universidad Nacional de Seúl",
+      "experiencias_previas": "Fiscal General de Corea del Sur"
+    },
+    {
+      "id_pais": 18,
+      "nombre": "Abdel Fattah el-Sisi",
+      "fecha_nacimiento": "1954-11-19",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Independiente",
+      "inicio_cargo": "2018-06-14",
+      "fin_cargo": null,
+      "educacion": "Ciencias Militares en Academia Militar Egipcia",
+      "experiencias_previas": "Ministro de Defensa"
+    },
+    {
+      "id_pais": 19,
+      "nombre": "Recep Tayyip Erdoğan",
+      "fecha_nacimiento": "1954-02-26",
+      "cargo_actual": "Presidente",
+      "partido_politico": "Partido de la Justicia y el Desarrollo",
+      "inicio_cargo": "2014-08-28",
+      "fin_cargo": null,
+      "educacion": "Administración en Universidad de Mármara",
+      "experiencias_previas": "Primer Ministro, Alcalde de Estambul"
+    },
+    {
+      "id_pais": 20,
+      "nombre": "Giorgia Meloni",
+      "fecha_nacimiento": "1977-01-15",
+      "cargo_actual": "Primera Ministra",
+      "partido_politico": "Hermanos de Italia",
+      "inicio_cargo": "2022-10-22",
+      "fin_cargo": null,
+      "educacion": "Ciencias Políticas",
+      "experiencias_previas": "Ministra de Juventud, Diputada"
+    }
+  ]

@@ -1,0 +1,50 @@
+const mongoose= require('mongoose')
+
+const paisesSchema = new mongoose.Schema({
+    nombre:{
+        type:String,
+        required:true,
+    },
+    continente:{
+        type:String,
+        required:true,
+    },
+    poblacion:{
+        type:Number,
+        required:true,
+    },
+    idioma_oficial:{
+        type:String,
+        required:true,
+    },
+    moneda:{
+        type:String,
+        required:true,
+    },
+    forma_gobierno:{
+        type:String,
+        required:true,
+    },
+    independencia:{
+        type:Date,
+        required:true,
+    },
+    PIB:{
+        type:Number,
+        required:true,
+    },
+    IDH:{
+        type:Number,
+        required:true,
+    },
+    capital:{
+        type:String,
+        required:true,
+    },
+    codigo_iso:{
+        type:String,
+        required:true,
+    },
+}
+)
+module.exports=mongoose.model('Paises',paisesSchema);
